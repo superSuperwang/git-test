@@ -7,3 +7,5 @@ let c = 400
 // 修改bug 修改bug
 b = 200
 //改改改
+// test merge
+let e = 5
