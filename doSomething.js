@@ -4,3 +4,5 @@ a = 200
 
 //doSomething Else
 let c = 400
+// 修改bug 修改bug
+b = 200
