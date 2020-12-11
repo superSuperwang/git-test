@@ -8,3 +8,5 @@ let c = 400
 b = 200
 // test merge
 let e = 5
+
+let test = 1
